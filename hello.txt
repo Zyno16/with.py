@@ -1,0 +1,4 @@
+with open("with.txt","w") as file:
+    file.write("how are you yusra ")
+    file.write("how can i help you")
+    
